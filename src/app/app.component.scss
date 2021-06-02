@@ -1,0 +1,32 @@
+.headingdot{
+    text-align: center;
+    color: red;
+} 
+//Navbar or Toolbar
+.nav-bar{
+     justify-content: space-between;
+ }
+ 
+//side nav
+mat-drawer-container{
+    height: 100%; 
+    background-color: white;
+} 
+
+mat-drawer{ 
+    background-color:blue;
+    width:170px;
+}
+
+table {
+    width: 100%;
+  }
+
+.numberStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #dfdf;
+    box-sizing: border-box;
+    height: 60px;
+}  
