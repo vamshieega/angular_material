@@ -125,4 +125,4 @@ applyFilter(e:any){
 profile(){ 
   this.openprofile=!this.openprofile
 }
-}
+} 
