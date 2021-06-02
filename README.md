@@ -1,4 +1,4 @@
-Run my project just tapping this : 
+Run my project by just tapping  one click  :
 
 https://youthful-goodall-383b2f.netlify.app/
 (or)
